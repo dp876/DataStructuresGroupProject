@@ -1,0 +1,8 @@
+Person genghis_khan
+Person adolf_hitler
+Place united_states_of_america
+Place university
+Thing microphone
+Thing cell_phone
+Phrase hello_kitty
+Phrase oh_well
