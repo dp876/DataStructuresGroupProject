@@ -1,4 +1,4 @@
-# DataStructuresGroupProject (2020)
+# DataStructuresProject (2020)
 * Wheel of Fortune Game
 * Play against CPU or other Players
 
